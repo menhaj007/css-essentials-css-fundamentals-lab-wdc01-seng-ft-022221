@@ -29,7 +29,7 @@ img {
 }
 
 #details {
-  border: 10px red;
+  border: 10px solid red;
   display: block;
   align-items: center;
 }
