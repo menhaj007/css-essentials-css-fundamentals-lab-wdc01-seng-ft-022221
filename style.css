@@ -10,3 +10,6 @@ body {
   /*border: 3px solid green;*/
   padding: 10px;
 }
+.centerBody h1 {
+  position: centerBody
+}
