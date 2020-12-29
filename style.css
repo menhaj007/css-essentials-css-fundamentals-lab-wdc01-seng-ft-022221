@@ -21,3 +21,8 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+p {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
