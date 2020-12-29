@@ -30,6 +30,7 @@ img {
 
 #details {
   border: 10px solid red;
+  background: red;
   display: flex;
   align-items: center;
 }
